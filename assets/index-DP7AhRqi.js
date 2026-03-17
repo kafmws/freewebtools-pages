@@ -1,0 +1,1 @@
+import{d as t,k as o,c as s,B as a,o as r}from"./index-DRC7N0CJ.js";const n={class:"rounded-xl border border-slate-200 bg-white p-5 text-sm text-slate-600 dark:border-slate-800 dark:bg-slate-900 dark:text-slate-300"},_=t({__name:"index",setup(d){const e=a();return o(()=>{e.replace("/tools/ai-audio/asr")}),(c,l)=>(r(),s("section",n," 正在跳转... "))}});export{_ as default};
